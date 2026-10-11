@@ -57,5 +57,5 @@ streamlit run app.py
 - Supabase- Free at Supabase
 
 ##Built by
-Tevina Osewe- Lunartech AI Engineering Apprenticeship Assignent-June 2026
+Tevina Osewe
 READMEEOF
